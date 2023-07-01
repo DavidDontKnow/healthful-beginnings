@@ -3,6 +3,7 @@ import Navbar from "../components/navbar";
 import Footer from "../components/footer";
 import Jumbotron from "../components/jumbotron";
 import AboutUs from "../components/aboutus";
+import "./homepage.css"
 
 
 const HomePage = () => (
