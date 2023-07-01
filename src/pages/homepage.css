@@ -1,6 +1,16 @@
+:root {
+    --seaweed: #28511c;
+    --white: #fdfdfd;
+    --black: #000000;
+    --grey: #808080;
+    --danube: #6da0cd;
+    --sand-dune: #826e5e;
+
+}
+
 * {
-    background-color: #28511c;
-    color: #fdfdfd;
+    background-color: var(--seaweed);
+    color: var(--white);
     font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
